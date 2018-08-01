@@ -1,1 +1,1 @@
-USB-KeyBoard-Emulator_with_Pro-Micro
+USB-KeyBoard-Emulator with SparkFun Pro-Micro Or clone board from China.
